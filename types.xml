@@ -13916,9 +13916,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="food" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
+    <usage name="Town"/>
+    <usage name="Village"/>
   </type>
   <type name="SodaCan_Kvass">
     <nominal>30</nominal>
@@ -13930,9 +13929,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="food" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
+    <usage name="Town"/>
+    <usage name="Village"/>
   </type>
   <type name="SodaCan_Pipsi">
     <nominal>30</nominal>
@@ -13944,6 +13942,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="food" />
+    <usage name="Town"/>
+    <usage name="Village"/>
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
@@ -13958,6 +13958,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="food" />
+    <usage name="Town"/>
+    <usage name="Village"/>
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
