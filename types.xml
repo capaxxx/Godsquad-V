@@ -13246,7 +13246,7 @@
     <category name="vehiclesparts" />
   </type>
   <type name="SewingKit">
-    <nominal>25</nominal>
+    <nominal>30</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>20</min>
