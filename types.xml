@@ -17965,7 +17965,7 @@
     <usage name="Military" />
   </type>
   <type name="Mag_M14_20Rnd">
-    <nominal>15</nominal>
+    <nominal>16</nominal>
     <lifetime>10800</lifetime>
     <restock>800</restock>
     <min>7</min>
