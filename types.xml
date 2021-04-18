@@ -11841,7 +11841,7 @@
     <nominal>25</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>18</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -11850,7 +11850,6 @@
     <tag name="shelves" />
     <usage name="Farm" />
     <usage name="Village" />
-    <value name="Tier1" />
   </type>
   <type name="PowderedMilk">
     <nominal>20</nominal>
